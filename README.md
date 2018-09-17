@@ -1,2 +1,2 @@
 # learngit
-这习Git命令
+学习Git命令
